@@ -1,11 +1,8 @@
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 import brickschema
 import pymysql as m
 import plotly.express as px
-import jupyter_dash as dash
+import dash as dash
 import plotly.graph_objects as go
 from dash import dcc
 from dash import html
